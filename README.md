@@ -7,3 +7,4 @@
 * 94V-0
 * IC500
 
+![mainboard_right_up_corner](img/mainboard_right_up.jpeg)
