@@ -52,6 +52,19 @@ Based on the PIC16LF1826-I/SS it looks like there are 2 compilers
 
 * XC8 compiler
 * HI-TECH PICC
+### Version 2.01S
+### [flash.bin](https://web.archive.org/web/20220328234253/https://www.magimix.be/files/ope_smart/flash.bin)
+MD5	ea4f67872a67aaf16435360c8c5d7a75
+SHA-1	213d984924dadfbf8a704f33e7749b171ad203fc
+SHA-256	b931c9b3506dd288e03453c1e5e66b5eb94df6b90dd15e566deaa02ea3038e43
+SSDEEP	6144:Rqz6Jn/syKVgEf4lrT5KTf5Z8PVYw2+Z+x1:RLblrl9Vc1
+
+#### [lpc1788.bin](https://web.archive.org/web/20220328234107/https://www.magimix.be/files/ope_smart/lpc1788.bin)
+MD5	9f6df216e6452656ce91be420473119b
+SHA-1	14eb7f05b237c4e2133d4dd51078e01f4a4cb8df
+SHA-256	4db01a4c95e2a51debb7a7ec143a58106a5863352442fa717c908cf9331aa4ea
+SSDEEP	1536:Z4ZV6CLFrXtgbhhEJQ2o/Nj2GVSysAvbDOM1XcAI:2V1pXtghGK2Mj7Y6/OMWD
+
 
 ### Version 4.00F
 #### [flash.bin](https://web.archive.org/web/20220327122823/https://fr.dev-magimix.com/upload/maj40/flash.bin)
