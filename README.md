@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/7887972/160485835-4447e43d-bca3-4e2a-b2e7-c30aa354c974.png)
 
-1. XLSEMI XL6001E1 62837
+1. XLSEMI XL6001E1 62837 [( Identified as 400KHz 32V 2A Switching Current Boost LED Constant Current Driver )](datasheet/XLSEMI-XL6001E1.pdf) 
 <img src="img/ic_1.jpeg" width="150">
 
 2. PIC16F82 -1/SS 327 HW
