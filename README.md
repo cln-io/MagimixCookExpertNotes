@@ -8,6 +8,8 @@
 * 94V-0
 * HM-02
 * IC500
+* RU ( [Recognized Component Mark](https://en.wikipedia.org/wiki/UL_(safety_organization)) )
+> The "Recognized Component Mark" is a type of quality mark issued by Underwriters Laboratories. It is placed on components which are intended to be part of a UL listed product, but which cannot bear the full UL logo themselves.[6] The general public does not ordinarily come across it, as it is borne on components which make up finished products.
 
 ![mainboard_right_up_corner](img/mainboard_right_up.jpeg)
 
