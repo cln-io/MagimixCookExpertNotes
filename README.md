@@ -53,7 +53,7 @@ Based on the PIC16LF1826-I/SS it looks like there are 2 compilers
 * XC8 compiler
 * HI-TECH PICC
 
-### Version 4.0
+### Version 4.00F
 #### [flash.bin](https://web.archive.org/web/20220327122823/https://fr.dev-magimix.com/upload/maj40/flash.bin)
 MD5	a5576c9f1ebde4ecaf42ae0d9cad723a
 SHA-1	caf8e7ac6a9ad957d497efedb1505747fe729acc
