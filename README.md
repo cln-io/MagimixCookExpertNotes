@@ -25,6 +25,7 @@ due marking, these are the options left which it can be
 * PIC16F1826
 * PIC16F1826T-I/SS
 * [PIC16F1826-I/SS](datasheet/PIC16F1826.pdf)
+* PIC16LF1826-I/SS (I don't think its the T, since that would show on the ic)
 
 <img src="img/ic_2_diffangle.jpeg" width="150">
 
