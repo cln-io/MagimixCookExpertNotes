@@ -23,6 +23,7 @@
 2. PIC16F82 -1/SS 327 HW ( Identified as a microchip PIC16F, still trying to find which one specific )
 due marking, these are the options left which it can be
 * PIC16F1826
+* PIC16F1826T-I/SS
 * [PIC16F1826-I/SS](datasheet/PIC16F1826.pdf)
 
 <img src="img/ic_2_diffangle.jpeg" width="150">
