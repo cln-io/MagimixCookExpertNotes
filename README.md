@@ -30,7 +30,8 @@ due marking, these are the options left which it can be
 * PIC16LF1826-I/SS (I don't think its the T, since that would show on the ic)
 I'm fairly certain its this one
 
-![image](https://user-images.githubusercontent.com/7887972/160498680-9ba0ec85-0022-4353-b586-ba4808bf4823.png)
+![image](https://user-images.githubusercontent.com/7887972/160498890-8954de9e-390c-4721-9eb0-8caa65523c12.png)
+
 
 
 
