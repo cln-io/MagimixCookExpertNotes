@@ -19,7 +19,7 @@
 <img src="img/ic_1.jpeg" width="150">
 
 2. PIC16F82 -1/SS 327 HW ( does it say 	PIC16F82  ? )
-<img src="img/ic_2.jpeg" width="150">
+<img src="img/ic_2_diffangle.jpeg" width="150">
 
 3. 6757 3S26 M-L
 <img src="img/ic_3.jpeg" width="150">
