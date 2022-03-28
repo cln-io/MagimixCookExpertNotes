@@ -1,5 +1,6 @@
 # Magimix Cook Expert 18900
-## Strings on the control unit
+## Harware
+### Strings on the control unit
 * BL1175_MAIN
 * 2014-11-14
 * V:02
@@ -13,14 +14,14 @@
 
 ![mainboard_right_up_corner](img/mainboard_right_up.jpeg)
 
-## Strings on IC's
+### Strings on IC's
 
 ![image](https://user-images.githubusercontent.com/7887972/160485835-4447e43d-bca3-4e2a-b2e7-c30aa354c974.png)
 
-### IC (1) XLSEMI XL6001E1 62837 [( Identified as 400KHz 32V 2A Switching Current Boost LED Constant Current Driver )](datasheet/XLSEMI-XL6001E1.pdf) 
+#### IC (1) XLSEMI XL6001E1 62837 [( Identified as 400KHz 32V 2A Switching Current Boost LED Constant Current Driver )](datasheet/XLSEMI-XL6001E1.pdf) 
 <img src="img/ic_1.jpeg" width="250px">
 
-### IC (2) PIC16F82 -1/SS 327 HW
+#### IC (2) PIC16F82 -1/SS 327 HW
 
 <img src="img/ic_2_diffangle.jpeg" width="250px">
 
@@ -38,5 +39,15 @@ I'm fairly certain its this one
 
 
 
-### IC (3) 6757 3S26 M-L ( does this say 3526 M-L? this could be a [LM3526 Dual Port USB Power Switch and Over-Current Protection](datasheet/lm3526.pdf )
+#### IC (3) 6757 3S26 M-L ( does this say 3526 M-L? this could be a [LM3526 Dual Port USB Power Switch and Over-Current Protection](datasheet/lm3526.pdf )
 <img src="img/ic_3.jpeg" width="250px">
+
+## Software 
+
+Based on the PIC16LF1826-I/SS it looks like there are 2 compilers
+![image](https://user-images.githubusercontent.com/7887972/160502582-8c6a9c86-fc36-409c-aeee-a20574130154.png)
+
+![image](https://user-images.githubusercontent.com/7887972/160502609-92e75526-267f-4406-82d5-682c80d9111a.png)
+
+* XC8 compiler
+* HI-TECH PICC
