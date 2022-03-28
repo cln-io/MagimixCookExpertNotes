@@ -1,4 +1,10 @@
 # Magimix Cook Expert 18900
+
+These are my notes in trying to understand how the Magimix Cook Expert works software / hardware wise.
+Would love to understand how to control the hardware, the french version has a USB bluetooth dongle that you can insert in the USB port, I want to see if I can "upgrade" my non french version to the same bluetooth connectivity.
+the firmware for the non bluetooth version, and bluetooth version are identical, so in theory, its possible?
+
+
 ## Harware
 ### Strings on the control unit
 * BL1175_MAIN
