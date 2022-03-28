@@ -21,5 +21,5 @@
 2. PIC16F82 -1/SS 327 HW ( Identified as a microchip PIC16F, still trying to find which one specific )
 <img src="img/ic_2_diffangle.jpeg" width="150">
 
-3. 6757 3S26 M-L
+3. 6757 3S26 M-L ( does this say 3526 M-L? this could be a LM3526 Dual Port USB Power Switch and Over-Current Protection )
 <img src="img/ic_3.jpeg" width="150">
