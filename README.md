@@ -6,7 +6,7 @@ Would love to understand how to control the hardware, the french version has a U
 the firmware for the non bluetooth version, and bluetooth version are identical, so in theory, its possible?
 
 
-## Harware
+## Hardware
 ### Strings on the control unit
 * BL1175_MAIN
 * 2014-11-14
