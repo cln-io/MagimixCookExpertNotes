@@ -62,6 +62,8 @@ When I google the firmware filename lpc1788.bin, I come across NXP - LPC1788 mic
 
 This looks like something more capable then the PIC16, and it has JTAG and stuff 
 
+![image](https://user-images.githubusercontent.com/7887972/160691113-9f03b36b-7c4f-4fc8-a056-bf8a7cfa4187.png)
+
 
 ## Software 
 
