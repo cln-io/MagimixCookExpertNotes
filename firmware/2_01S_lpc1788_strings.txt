@@ -1,0 +1,932 @@
+`pGd)
+Task Start
+"rIhF
+!cHAgbI
+Af\I
+AeYI
+!NHAcMI
+AbGI
+aEH	
+Ab=I
+a;H	
+x&I1
+Task GUI
+Task Motor
+Task Temperature
+Task Keys
+`BhJ`
+F z0
+  r,
+  r"
+  r F
+  r F
+ h``
+xwI1
+xFI1
+hd(F
+x.I1
+-I.H
+ h@(
+T^Z[G
+^H@y	(
+QH@x
+xNI1
+pGpG
+0 Si:L
+dh#@
+(L#`
+@c#b
+	 l2
+ 	hHp("
+`BhJ`
+pxH@{
+kH@|HqiH
+reHDz
+	|I	
+pMHNI
+`OHOI
+x_I	x!
+_I	x
+RH	x0
+QHCI	x0
+ 'I	yQ
+:I	x
+1IIy
+*I	z<)
+# "O
+q}H	
+|H}J
+qqH	
+qgH	
+# "O
+qjH	
+ _I	x
+[I	y
+ZI	x
+FI	x
+FHEI	x@\EI
+x 5I
+ )I	h
+H@yP
+H	x0
+I	x0
+$wH@y
+uHDq
+x ZI
+ (I	x
+6	;;;78;9
+yH@x
+qH@x
+iH@x
+eH@y(
+aH@y`I
+p\H@y@
+[IHq[H
+SH@y[I
+BH@x
+4H@x
+/I	z
+)I	z
+H@y@
+x~I1
+`BhJ`
+MH@yPI
+xHsIH
+t6H@yHt4H
+6I	x@
+6I	x
+C5IHr
+x+I1
+*I	h
+`'H&I	hA\
+I	xI
+I	xI
+I	xI
+I	x0
+I	x0
+	!vJ
+p	 4IHqAI
+x(I1
+yI	xI
+WIIyRJP\
+^JQq
+`q`y!y
+`y q F
+`q`y!y@
+ q F
+`<H@
+3I6H
+tmr_gui
+tmr_WaitBlade
+.YZXG
+I	xG\
+L#,!
+I	xG\
+L#,!
+pvH@y
+nIIyoJQ\I
+"mI	x
+peH@y
+`IIyaJQ\I
+"`I	x
+=H@x
+1H@x
+p(H@y
+ H@y!I
+H@y0
+I	y@
+I	x	
+xH@y
+oH@y
+mH^I	xG\
+L#,!
+WIGJ
+"FI	x
+HH@x
+3H@y
+p0IIy>JQ\I
+"1I	x
+,H@x
+`JhB`	
+,DzEC
+UH@y
+>I>H
+6H@y
+4H@y
+'H@y
+I	xP
+"#$%
+cH	x0
+bH^I	x0
+&-PP4P;PPBPI
+'H@y	(
+x]0D
+FUHEp`
+MJPT
+#H@x
+#AL#
+#>L#
+#;L#
+#9L#
+#4L#
+#1L#
+#.L#
+#,L#
+#(L#
+#%L#
+#"L#
+# L#
+#|L#
+#yL#
+#wL#
+#rL#
+#oL#
+#lL#
+#jL#
+#fL#
+#cL#
+#`L#
+#^L#
+#ZL#
+#WL#
+#TL#
+#RL#
+#LL#
+#IL#
+#FL#
+#DL#
+#@L#
+#=L#
+#:L#
+#8L#
+#3L#
+#0L#
+#-L#
+#+L#
+#'L#
+#$L#
+#!L#
+#	L#
+#~L#
+#{L#
+#xL#
+#vL#
+#rL#
+#oL#
+#lL#
+#jL#
+#eL#
+#bL#
+#_L#
+#]L#
+#XL#
+#UL#
+#RL#
+#PL#
+#LL#
+#IL#
+#FL#
+#DL#
+#?L#
+#<L#
+#9L#
+#7L#
+#3L#
+#0L#
+#-L#
+#+L#
+#'L#
+#$L#
+#!L#
+#|L#
+#zL#
+d CI
+hAh5H
+0I	hH`/H
+h@h D)I	hH`'H
+%I	h
+h@x@
+I	hHp
+h@x8
+I	hH
+I	hHp
+I	hH
+	I	hH`
+HC2I
+HC0I
+p{C%O
+p{C#O
+e	!Q`pG
+ Had 
+diF F
+@0GI
+iFVH
+tmr_beep
+tmr_TimeSet
+! oI
+`iI 1
+`hI01
+`eI@1
+ p#I	
+ HbO
+RF)F F
+`  zI
+`' 	
+F@h@
+F@h@
+F@h@
+F@h@
+C$IH`
+aHaB
+*FQFHF
+2FQFHF
+I	hA
+6!+J
+pG&H
+p#IH`
+IH`pG
+hpGp
+N5rI
+b,H@l 
+*IHd
+F@l@
+}H|8
+{IHC|I
+`uH|8
+sIHCqI
+`lH|8
+jIHCkI
+UH|8
+SIHCTI
+LH|8
+JIHCKI
+:H\8
+8IHC<I
+5H|8
+3IHC7I
+`pG! -I
+`	 (I
+ !Ix9
+ 	I	
+C  p
+C  p
+I	xP
+i6h5DEa
+i6h5DEa
+i6h5DEa
+eJR\`K
+CbKZT
+FR\B
+60\J
+@I	h
+ =I	h
+)F+H
+ 'I	h
+%I	h
+#I	h
+I`i	h
+  v`v`aD
+*FAF8F
++FZFQFHF
+:F F
+h@h{I
+  p%
+ `` F
+d  p
+d  p
+UHZI
+! "KK
+#GJ|2
+P!DH
+`5H6I
+  pf`X
+  p``(H
+=q%H
+uC/OS-II Tmr
+uC/OS-II Idle
+I	xP
+I	xP
+ `p0<
+|JPTdi(F
+ pGpG-
+`'` | 
+ | <
+aI	x
+U)F F
+ (`h`
+2pRHP
+iF(F
+p 0pXF
+p 0pXF
+p 0pXF
+p 0pXF
+%o 0p
+  p&
+r (p F
+h``(
+%]b0
+ qgq y,<
+ (p F
+ (p F
+I (p&F*
+ (p&F
+h0`0h
+  p@F
+qO?h
+1phO?h
+bfO?hyb
+tdO?h
+i`A`^O?h
+4 [O
+SO?h
+OO?x'
+ 0p F
+KF:F
+ 0p F
+KF:F
+ 0p F|
+KF:F
+ 0p FN
+KF:F
+$o 0p F:
+o 0p
+ 0p F
+q 0p
+"9F(F
+"9F(F
+"9F(F
+"9F(F
+o 0p
+ (p0F
+ ``0F
+h@hJI
+e` F
+ (p F
+ (p F
+  p.H
+I (p&F#
+ (p&F
+FnhF
+ h`@F
+  p0F
+  p	
+ (p0F
+")F F
+e`0F
+"1F F
+"1F F
+f`8F
+`h(`HF
+ (p F
+ (p F
+  pSH
+I (p&F#
+ pCH
+ (p&F
+ (p0F
+ (p 
+I (p8F
+#BF9F0F
+7`8F
+2`jHP
+C  p
+C  p
+l8`8h
+  pHF
+FVHP
+xJI	x
+p xFI
+CJPT0F
+&&HP
+4p H
+T"!F0F
+ 8p@F
+  p0F
+  p(F
+&pHF
+ `p0<
+JPT0F
+ (p F
+aAaA`
+a\I	h
+`[I	
+F(xd(
+F xd(
+*I`i	hF
+ (p0F
+F(xd(
+F(xd(
+F(xd(
+AF(F
+pGpGpGpGpGpGp
+(F,`=N
+(F.`O
+(F.`O
+(F.`O
+(F.`v
+(F.`
+(F)`O
+(F.`O
+(F.`O
+(F.`O
+(F.`O
+(F.`O
+(F.`O
+(F.`O
+(F.`p
+pGpG
+!	iA
+F	iA
+hFbp
+4P(DI
+F!F0F
+ a F
+# "O
+# "O
+#u"O
+FpGp
+#{"<! F
+"<! F
+3F*F
+3F*F
+3F*F
+3F*FwI	h
+3F*FmI	h
+ pIiJ
+3F*FaI	h
+3F*FWI	h
+\JRyQ
+3F*FMI	h
+ KIKJ
+3F*FDI	h
+F)F8H
+3F:F>
+3F:F6
+h1I	h
+,I	h
+ 'IO
+%02d:%02d
+%2d:%02dh
+~H@y
+$"F}
+ CF2F9F
+ `px!
+."(9
+F`x 
+@HAJ
+;I;H
+."(9
+__%s
+%d%s
+Auto
+ppGp
+I	xP
+I	xP
+I	xP
+I	xP
+I	xP
+#i"@
+#i"@
+#i"@
+pHqJ
+AkHlI	xE\
+fJeK
+^I[J
+FVIQ
+#l"S!
+FOIQ
+#l"@
+DI?J
+7I8J
+";I	x
+F9I2J
+#b"Q!
++I,J
+"/I	x
+F-I&J
+#b"@
+qpG-
+C#<"
+ _#<"
+ x#<"
+F:Fs
+ 3F*F
+ 3F*F
+6<%d
+F:FO
+F:FB
+ 3F*F
+ 3F*F
+3H@y
+FAF	H
+SYSTEM 
+Motor    
+NTC        
+Motor  %d
+NTC      %d
+Screen %d
+# "O
+"uI	h
+#&"O
+#&"O
+#&"O
+#&"O
+>H@y
+p4H@y5I
+KILJ
+>H@x
+magimix.fr/produits/
+preparer/Cook-Expert/
+1H@x
+x\@mM5
+@`@I
+fI	h
+cI	h
+^I	h
+ZI	h
+HI	h
+FI	hH
+DI	h
+BI	h
+@7I	h
+/I	h
+.I	h
+-IPF
+ !x@
+{DiF
+G j@
+G j@
+D(b(F
+hu)1F
+00xT
+#F*F0F
+G j@
+&_F F
+h/F F
+fJF)F F&`NF
++pGO
+F 9"
++pGpGpGpG-
+G j@
+ bNE
+G j@
+G j@
+iFSF 
+`pGr
+rbE8
+2.01S
+	z	U	1	
+	 $6
+	 06
+	 86
+dba_\XSMF>2
+>UP?
+UUUT
+}UUU}U@
+UUUU}U@
+.UUU@
+UUUU
+UUUUT
+UUUUT
+UUU@
+UUU@
+UUU@
+UUU@
+UUUU}
+UUUP
+UUUU
+UUUU
+UUUP
+UUUUP
+U}U@
+UUUP
+UUUP
+UUU@
+B c0
+s2R"
+b$C4 
+S6r&
+>2.Q
+P%@Fpg`
+RwbVr
+ftGd$T
+Wfvv
+F4VL
+DXeH
+uJTZ7j
+ld\EL
+n6~UNt^
+r	S`
+r	jC
+r	IN
+r	4Vc
+Heater error
+NTC short
+NTC opened
+Blender
+Smoothie
+curit
+ Enfants
+Child Resistant
+Kindersicherung
+Prueba de ni
+Sicurezza bimbi
+Kindveilig
+Accessoires
+Accessories
+Zubeh
+Accesorios
+Accessorio
+Accessoires
+Mode Hot Mix
+Hot Mix mode
+ Mix Modus
+Modo Hot Mix
+Hete mix modus
+monstration
+Demonstration
+Vorf
+hrung
+Demostraci
+Dimostrazione
+Demonstratie
+Stand-by
+Surcharge moteur
+Motor overload
+Motor
+berlastung
+Sobrecarga del motor
+Sovraccarico del motore
+Overbelasting van de motor
+Rinsing
+Aussp
+Aclarado
+Risciacquatura
+Spoelen
+Expert
+Experte
+Experto
+Esperto
+Robot
+Food processor
+chenmaschine
+Foodprocessor
+Vapeur
+Steam
+Dampfgaren
+Vapor
+Vapore
+Stomen
+Panier Vapeur XXL
+Steamer XXL
+XXL Dampfgaren
+Cesta vapor XXL
+Vapore XXL
+XXL Stoomkoker
+Mijotage
+Simmering
+cheln
+Cocci
+n lenta
+Stufato
+Sudderen
+Soupe velout
+Cream soup
+Cremesuppe
+Sopa cremosa
+Minestra vellutata
+Romige soep
+Soupe moulin
+ed soup
+rierte Suppe
+Sopa licuada
+Passato di verdura
+Gepureerde soep
+Rissolage
+Stir-Fry
+Anbraten
+Dorar
+Rosolare
+Roerbakken
+Glace pil
+Crushed ice
+Zersto
+enes Eis
+Hielo picado
+Ghiaccio tritato
+Gestampt ijs
+Dessert glac
+Frozen dessert
+Eisspeise
+Sorbete
+Semifreddi
+IJsdessert
+Pain / Brioche
+Bread/Brioche
+Brot / Hefegeb
+Pan / Brioche
+Pane / brioche
+Brood / Brioche
+trin XL
+Dough hook XL
+XL Teigmesser
+Cuchilla amasar XL
+Impasto XL
+XL Kneedmes
+te / G
+teau
+Pastry/Cake
+Teig / Kuchen
+Masa / Pastel
+Impasti / dolci
+Deeg / Taart
+Blancs en neige
+Beaten egg whites
+Eischnee
+Montar claras
+Albumi a neve
+Stijfgeklopt eiwit
+Reportez vous au mode d'emploi
+Check instructions
+Folgen Sie den Anweisungen
+Consulte las instrucciones
+Si vedano all'istruzione di us
+Check instructies
+Versions
+Working Hours
+WAIT UNTIL BLADE STOPS
+ NE PAS OUVRIR AVANT L'ARRET COMPLET DES LAMES 
+ DO NOT OPEN UNTIL BLADE STOPS 
+ NICHT 
+FFNEN BEVOR DAS MESSER ZUM STILLSTAND GEKOMMEN IST 
+ NO ABRIR ANTES DE QUE PARE DE LA CHUCHILLAS 
+ APRIRE SOLAMENTE QUANDO LE LAME SARANNO FERME 
+ NIET OPENEN TOT MES VOLLEDIG TOT STILSTAND IS GEKOMEN 
+ HOT MIX: APPUI 
+ 3 S 
+ HOT MIX: PRESS 
+ 3 S 
+ HOT MIX: Dr
+cken Sie 
+ 3 S 
+ HOT MIX: PULSA 
+ 3 S 
+ HOT MIX: Affreta 
+ 3 S 
+ HOT MIX: DRUK 3 S OP 
+Android App
+Apple App
+Magimix.com
+ Smart Connect absente
+Accessoire optionnel
+No Smart Connect key
+Optional accessory
+Kein Smart Connect Schl
+ssel 
+Optionales Zubeh
+Accesorio opcional
+Accessorio opzionale
+Geen Smart Connect key aanwezig
+Optionele accessoire
+Aucun appareil connect
+No device connected
+Kein Ger
+t verbunden
+No hay conectado ning
+n aparato
+Nessun dispositivo collegati
+Geen apparaat niet vebonden
+Connected to phone
+5 minutes
+15 minutes
+30 minutes
+10 Hours
+Cambiar la cuba
+Cambiare vasca
+Panetteria
+Cerrar la tapa
+Modo espera
+Batidora
+Cottura
+Agregar agua
+Aggiungere acqua
+Panader
+Standby-Betrieb
+Close the lid
+Geluid
+Nederland
+Sound
+Notice
+Menuvolgorde
+-Reihenfolge
+Boulangerie
+Fermer le couvercle
+10 Ore
+Contatore
+Rezepte
+Ricette
+Lingue
+Handleiding
+Baking
+Cooking
+Deutsch
+Handbuch
+English
+Impostazioni
+Taal
+Manual
+User manual
+Sluit de deksel
+Changer le bol
+Espa
+Change the bowl
+Verwissel de kom
+Water toevoegen
+Instellingen
+Einstellungen
+Wasser hinzuf
+Sprachen
+Bakken
+Koken
+Garen
+Recepten
+Den Deckel schlie
+Den Beh
+lter wechseln
+Cuisson
+Cocci
+Sonido
+Chiudere il coperchio
+Italiano
+Suono
+Manuale d'uso
+Menu order
+hler
+Teller
+Add water
+Meter
+10 Uhr
+Contador
+10 Uur
+Compteur
+Idiomas
+10 Horas
+Recetas
+glages
+Languages
+Recipes
+10 Heures
+Ajustes
+Recettes
+Langues
+Settings
+Fran
+Ordre menus
+t auto apr
+Orden de men
+Ajouter eau
+Ordine menu
+Standby
+)@ZP 
+`*KX
+h8)0
