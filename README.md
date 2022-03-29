@@ -49,6 +49,10 @@ I'm fairly certain its this one
 #### IC (3) 6757 3S26 M-L ( does this say 3526 M-L? this could be a [LM3526 Dual Port USB Power Switch and Over-Current Protection](datasheet/lm3526.pdf )
 <img src="img/ic_3.jpeg" width="250px">
 
+What controls that giant display then?
+Is this something I overlooked?
+When I google the firmware filename lpc1788.bin, I come across NXP - LPC1788 microcontroller with LCD Graphics Controller, is this hidden under the display plate? (its on a big raiser)
+
 ## Software 
 
 Based on the PIC16LF1826-I/SS it looks like there are 2 compilers
