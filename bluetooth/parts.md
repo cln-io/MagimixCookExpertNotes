@@ -17,3 +17,9 @@ https://www.magimix.fr/index.php?controller=attachment&id_attachment=120 [web ar
 
 For sale here https://www.pieces-electro.com/Prix/KIT-SMART-CONNECT-2328769.html [web archive link](https://web.archive.org/web/20220329095542/https://www.pieces-electro.com/Prix/KIT-SMART-CONNECT-2328769.html)
 ( 17585 / U58166 ) 
+
+
+##USB stick should work on non compatible model according to this user
+https://www.apreslachat.com/forum/MAGIMIX/COOK-EXPERT/Smart-connect-sur-cook-expert-18900/4523193/374359 [web archive link](https://web.archive.org/web/20220329100320/https://www.apreslachat.com/forum/MAGIMIX/COOK-EXPERT/Smart-connect-sur-cook-expert-18900/4523193/374359)
+
+>Update: I can connect to the robot in the app, but I can't control it from the app. In this one it is indicated that it is necessary to make an update, I launch it but it turns without doing anything...
