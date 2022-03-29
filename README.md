@@ -54,6 +54,15 @@ What controls that giant display then?
 Is this something I overlooked?
 When I google the firmware filename lpc1788.bin, I come across NXP - LPC1788 microcontroller with LCD Graphics Controller, is this hidden under the display plate? (its on a big raiser)
 
+###Current best guess: the firmware lpc1788.bin is 220Kb, thats way too big for that PIC16F82 let alone drive a decent resolution display, images, icons, animations, etc... so I think the main chip is under the display (big aluminium box) and based on the firmware name " lpc1788"  it might just be that one 🙄
+
+[LPC178x/7x](https://www.keil.com/dd2/nxp/lpc1788/) [web archive link](https://web.archive.org/web/20220329191810/https://www.keil.com/dd2/nxp/lpc1788/)
+* 32-bit ARM Cortex-M3 microcontroller; up to 512 kB flash and
+* 96 kB SRAM; USB Device/Host/OTG; Ethernet; LCD; EMC
+
+This looks like something more capable then the PIC16, and it has JTAG and stuff 
+
+
 ## Software 
 
 Based on the PIC16LF1826-I/SS it looks like there are 2 compilers
