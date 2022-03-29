@@ -23,3 +23,6 @@ For sale here https://www.pieces-electro.com/Prix/KIT-SMART-CONNECT-2328769.html
 https://www.apreslachat.com/forum/MAGIMIX/COOK-EXPERT/Smart-connect-sur-cook-expert-18900/4523193/374359 [web archive link](https://web.archive.org/web/20220329100320/https://www.apreslachat.com/forum/MAGIMIX/COOK-EXPERT/Smart-connect-sur-cook-expert-18900/4523193/374359)
 
 >Update: I can connect to the robot in the app, but I can't control it from the app. In this one it is indicated that it is necessary to make an update, I launch it but it turns without doing anything...
+
+Inside of the box should look like this
+![image](https://user-images.githubusercontent.com/7887972/160626552-9224df62-6f6e-4dcc-92aa-57977c8ce713.png)
