@@ -1,6 +1,6 @@
 #!/bin/bash
 # Build and run the firmware RE docker container
-# Mounts the temp/ folder (with .bin files) into /firmware
+# Mounts the CLAUDE/ folder (with .bin files) into /firmware
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PROJECT_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
@@ -24,6 +24,6 @@ echo "    - python3 /tools/ghidra_decompile.py /firmware/lpc1788.bin"
 echo ""
 
 docker run -it --rm \
-    -v "$PROJECT_ROOT/temp:/firmware" \
+    -v "$PROJECT_ROOT/CLAUDE:/firmware" \
     -v "$SCRIPT_DIR/scripts:/tools" \
     "$IMAGE_NAME"
