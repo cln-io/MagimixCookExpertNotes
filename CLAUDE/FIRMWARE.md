@@ -10,6 +10,7 @@ Two firmware binary files were extracted from the Magimix Cook Expert kitchen ap
 | `flash.bin` | 1,025,067 bytes (1001.0 KB) | External SPI flash — display graphics & assets |
 
 > See [DECOMPILED_ANALYSIS.md](DECOMPILED_ANALYSIS.md) for the full function-by-function breakdown with pseudocode.
+> See [BLUETOOTH.md](BLUETOOTH.md) for the complete Bluetooth/Smart Connect protocol reverse-engineering.
 
 ---
 
@@ -19,8 +20,8 @@ Two firmware binary files were extracted from the Magimix Cook Expert kitchen ap
 
 - **Architecture**: ARM Cortex-M3 (ARMv7-M), Thumb-2 instruction set
 - **Internal SRAM**: 96 KB (64 KB main at `0x10000000` + 32 KB AHB)
-- **Internal Flash**: 512 KB
-- **Max clock**: 120 MHz
+- **Internal Flash**: 512 KB (firmware base address `0x8000`, 32KB bootloader at `0x0000-0x7FFF`)
+- **Max clock**: 120 MHz (PCLK = 60 MHz)
 - **Stack pointer**: `0x1000D468` (top of 53 KB into main SRAM)
 
 The LPC checksum at vector[7] = `0xEFF9CFFA` validates correctly (sum of first 8 vectors = 0), confirming a valid LPC bootable image.
